@@ -4,6 +4,7 @@ print(s[::-1])
 # 2nd WAY -------------------------------->
 
 s=input("Enter some String------>")
+
 print(''.join(reversed(s)))
 
 # 3rd WAY -------------------------------->
